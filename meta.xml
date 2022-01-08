@@ -1,0 +1,5 @@
+<meta>
+<script src="server.lua" type=server/>
+<script src="client.lua" type=client/>
+<info author="viablegames.com/mta" version=1/>
+</meta>
